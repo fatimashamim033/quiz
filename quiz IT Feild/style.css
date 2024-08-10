@@ -1,0 +1,31 @@
+body{
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+}
+.aap{
+    width: 400px;
+    height: 350px;
+    padding:55px;
+    background-color: bisque;
+    border: 4px solid rgb(245, 61, 16);
+    border-radius: 20px;
+    margin: 15px;
+}
+#ques{
+   color: green;
+}
+#a{
+    background-color: aquamarine;
+}
+    
+h1{
+    color: red;
+
+}
+
+#btn{
+    background-color: rgb(46, 142, 238);
+    color: black;
+    justify-content: center;
+}
